@@ -1,2 +1,2 @@
 # sentiment_clf
-This is a full-packaged simple app for predicting the sentiment of the Polish sentence
+This is a full-packaged simple app for detecting type of instulting messages (harmful, hate-speech, neutral) of a text for Polish language.
