@@ -2,3 +2,5 @@ pandas
 numpy
 fasttext
 scikit-learn
+fastapi
+uvicorn[standard]
